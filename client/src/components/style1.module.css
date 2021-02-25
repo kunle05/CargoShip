@@ -1,0 +1,16 @@
+.login {
+    background-color: #002f60;
+}
+.rounded {
+    border-radius: .5rem !important;
+}
+.error {
+    border: 1px dotted #dc3545;
+}
+.link{
+    color: #185ba0eb !important;
+}
+.enlarge:hover {
+    text-decoration: underline;
+    transform: scale(1.15);
+}
